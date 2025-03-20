@@ -1,0 +1,5 @@
+service : {
+  multiplicar: (nat, nat) -> (nat);
+  somar: (nat, nat) -> (nat);
+  subtrair: (nat, nat) -> (nat);
+}
